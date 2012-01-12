@@ -1,0 +1,5 @@
+name: PartyChannel
+main: net.teamio.PartyChannel.party
+version: 0.0.1
+author: xu_robert
+depend: [ChannelChat,mmoParty]

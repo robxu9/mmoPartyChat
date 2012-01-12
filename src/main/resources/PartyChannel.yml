@@ -1,0 +1,5 @@
+enabled: true
+name: Party
+tag: '&a[&bParty&a]'
+listed: true
+alias: team
